@@ -1,5 +1,9 @@
 {
   "SteamLogin": "venlavrineca",
   "SteamPassword": "Dopler200434!",
-  "Enabled": true
+  "Enabled": true,
+  "FarmingOrders": [],
+  "GamesPlayedWhileIdle": [],
+  "OnlineStatus": 7,
+  "CustomGamePlayedWhileFarming": "730"
 }
