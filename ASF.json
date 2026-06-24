@@ -1,5 +1,5 @@
 {
-  "IPCPassword": "Пароль для доступа к веб-интерфейсу",
-  "s_SteamOwnerID": "Ваш SteamID",
-  "IPC": true
+  "s_SteamOwnerID": "76561199058544008",
+  "FilterBadBots": false,
+  "IPCPassword": "123123"
 }
